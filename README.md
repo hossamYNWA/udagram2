@@ -1,5 +1,5 @@
 this project is a full stack application hosted on amazon web service (AWS) .
-- you can visit the deployed frontend (on AWS S3) from [here](http://udagram-frontend-3.s3-website-us-east-1.amazonaws.com "here")
+- you can visit the deployed frontend (on AWS S3) from here http://udagram-frontend-3.s3-website-us-east-1.amazonaws.com
 - also you can check the deployed backend (on AWS EB) from [here](http://udagram-api-env.eba-7jpsvdkd.us-east-1.elasticbeanstalk.com/ "here")
 
 ##### if you want to install the project locally follow the following: 
